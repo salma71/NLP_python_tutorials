@@ -16,6 +16,7 @@ The project consists of several notebooks. The following table describe each not
 | Notebook | Description |
 | ------ | ------ |
 | Embedding CNN model for sentiment analysis.ipynb | Building a sentiment analysis using the CNN keras |
+| Embedding CNN model for sentiment analysis.py | a python script version of the notebook |
 
 ### Todos
 
